@@ -16,7 +16,7 @@ Average per trip: $5.4
 ## Author
 Alex Lam
 
-"Edit added by Aiden Riodique"\
+"Edit added by Aiden Riodique. Added \"
 
 ## Collaboration Acknowledgment
 This project was reviewed and edited by Aiden Riodique on GitHub.
