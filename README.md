@@ -13,6 +13,28 @@ Trip 2: $5.3\
 Total spent on gas: $10.8\
 Average per trip: $5.4
 
+## Starter Code
+```java
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+
+        // TODO A1: Ask the user how many trips they made
+        // TODO A2: Create a double array with that size
+
+        // TODO B1: Use a for loop to enter the gas cost for each trip
+        // Example: "Enter gas cost for trip 1:"
+
+        // TODO B2: Use another for loop to display each trip’s cost
+
+        // TODO C1: Calculate and print the total and average gas cost
+
+    }
+}
+```
+
 ## Author
 Alex Lam
 
