@@ -19,4 +19,4 @@ Alex Lam
 "Edit added by Aiden Riodique"\
 
 ## Collaboration Acknowledgment
-This project was reviewed and edited by Aiden Riodique
+This project was reviewed and edited by Aiden Riodique on GitHub.
